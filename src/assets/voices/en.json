@@ -1,0 +1,63 @@
+{
+    "category": [
+        {
+            "name": "moe",
+            "title": "Be carefull of heart attack, It's MOE!",
+            "voices": [
+                {
+                    "name": "ohamoon",
+                    "path": "ohamoon.mp3",
+                    "title": "Good Morning~ heheh"
+                },
+                {
+                    "name": "pikachu",
+                    "path": "pikachu.mp3",
+                    "title": "pi pi pikachu pika pika"
+                },
+                {
+                    "name": "quietoyasumi",
+                    "path": "quiet-oyasumi.mp3",
+                    "title": "*quietly* 'night."
+                },
+                {
+                    "name": "hoamohayou",
+                    "path": "hoam-ohayou.mp3",
+                    "title": "٩(ˊ〇ˋ*)و mornin' ehehe"
+                }
+            ]
+        },
+        {
+            "name": "actadult",
+            "title": "MoonA acting like herself (a real adult)? fun fact: Moon's age is around 4.53 billion years",
+            "voices": [
+                {
+                    "name": "notmoonafault",
+                    "path": "notmoonafault.mp3",
+                    "title": "not moona's fault"
+                }
+            ]
+        },
+        {
+            "name": "meme",
+            "title": "The Meme cannot be this cute!",
+            "voices": [
+                {
+                    "name": "awimawe",
+                    "path": "awimawe.mp3",
+                    "title": "hii~i~i~imammamawe awimawe(x16), lol"
+                }
+            ]
+        },
+        {
+            "name": "moonsound",
+            "title": "Noises Sent From Moon, What did Space Agency Leave There",
+            "voices": [
+                {
+                    "name": "carelesswhisper",
+                    "path": "carelesswhisper.mp3",
+                    "title": "did someone put speaker and play Careless Whisper on the moon or did the moon sing?"
+                }
+            ]
+        }
+    ]
+}

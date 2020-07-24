@@ -1,0 +1,68 @@
+{
+    "category": [
+        {
+            "name": "moe",
+            "title": "Hati-hati serangan jantung, ini MOE!",
+            "voices": [
+                {
+                    "name": "ohamoon",
+                    "path": "ohamoon.mp3",
+                    "title": "Sugeng Enjang, heheh"
+                },
+                {
+                    "name": "pikachu",
+                    "path": "pikachu.mp3",
+                    "title": "pi pi pikachu pika pika"
+                },
+                {
+                    "name": "quietoyasumi",
+                    "path": "quiet-oyasumi.mp3",
+                    "title": "*berbisik* metmalam."
+                },
+                {
+                    "name": "hoamohayou",
+                    "path": "hoam-ohayou.mp3",
+                    "title": "٩(ˊ〇ˋ*)و pagi ehehe"
+                },
+                {
+                    "name": "aliensorry",
+                    "path": "aliensorry.mp3",
+                    "title": "*suara alien bersedih* maap ｍ(｡≧Д≦｡)ｍ"
+                }
+            ]
+        },
+        {
+            "name": "actadult",
+            "title": "MoonA seperti biasanya (dewasa)? fakta menarik: Umur Bulan adalah sekitar 4.53 miliyar tahun",
+            "voices": [
+                {
+                    "name": "notmoonafault",
+                    "path": "notmoonafault.mp3",
+                    "title": "bukan salah moona"
+                }
+            ]
+        },
+        {
+            "name": "meme",
+            "title": "Meme gak mungkin seimut ini!",
+            "voices": [
+                {
+                    "name": "awimawe",
+                    "path": "awimawe.mp3",
+                    "title": "hii~i~i~imammamawe awimawe(x16), wkwk"
+                }
+            ]
+        },
+        {
+            "name": "moonsound",
+            "title": "Suara yang datang dari bulan, Apa yang ditinggalkan Badan Antariksa di sana",
+            "voices": [
+                {
+                    "name": "carelesswhisper",
+                    "path": "carelesswhisper.mp3",
+                    "title": "ada yang ninggalin speaker dan puter Careless Whisper di bulan atau si bulan yang nyanyi?"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "category": [
+        {
+            "name": "moe",
+            "title": "Ati-ati kenek jantungan, iki MOE cok!",
+            "voices": [
+                {
+                    "name": "ohamoon",
+                    "path": "ohamoon.mp3",
+                    "title": "Sugeng Enjang, heheh"
+                },
+                {
+                    "name": "pikachu",
+                    "path": "pikachu.mp3",
+                    "title": "pi pi pikachu pika pika"
+                },
+                {
+                    "name": "quietoyasumi",
+                    "path": "quiet-oyasumi.mp3",
+                    "title": "*bisik-bisik* sugeng sare."
+                },
+                {
+                    "name": "hoamohayou",
+                    "path": "hoam-ohayou.mp3",
+                    "title": "٩(ˊ〇ˋ*)و enjang' ehehe"
+                },
+                {
+                    "name": "aliensorry",
+                    "path": "aliensorry.mp3",
+                    "title": "*swarane alien nelongso* ngapunten ｍ(｡≧Д≦｡)ｍ"
+                }
+            ]
+        },
+        {
+            "name": "actadult",
+            "title": "MoonA sing biasane (diwasa)? fakta menarik: Umure Bulan iku sekitar 4.53 miliyar tahun",
+            "voices": [
+                {
+                    "name": "notmoonafault",
+                    "path": "notmoonafault.mp3",
+                    "title": "dudu salahe moona"
+                }
+            ]
+        },
+        {
+            "name": "meme",
+            "title": "Meme ra mungkin seimut iki!",
+            "voices": [
+                {
+                    "name": "awimawe",
+                    "path": "awimawe.mp3",
+                    "title": "hii~i~i~imammamawe awimawe(x16), lol"
+                }
+            ]
+        },
+        {
+            "name": "moonsound",
+            "title": "Swara teko Wulan, Opo maneh sing ditinggalno Lembogo Antarikso iki",
+            "voices": [
+                {
+                    "name": "carelesswhisper",
+                    "path": "carelesswhisper.mp3",
+                    "title": "onok sing ninggalno speaker karo nyetel Careless Whisper ta nang wulan opo wulan e sing nembang?"
+                }
+            ]
+        }
+    ]
+}

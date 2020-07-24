@@ -1,0 +1,68 @@
+{
+    "category": [
+        {
+            "name": "moe",
+            "title": "心臓発作に注意してください、萌えです!",
+            "voices": [
+                {
+                    "name": "ohamoon",
+                    "path": "ohamoon.mp3",
+                    "title": "おはようございます~ （笑）"
+                },
+                {
+                    "name": "pikachu",
+                    "path": "pikachu.mp3",
+                    "title": "ピピ ピカチュウ ピカ ピカ"
+                },
+                {
+                    "name": "quietoyasumi",
+                    "path": "quiet-oyasumi.mp3",
+                    "title": "（やさしく） おやすみ."
+                },
+                {
+                    "name": "hoamohayou",
+                    "path": "hoam-ohayou.mp3",
+                    "title": "٩(ˊ〇ˋ*)و おはよう ehehe"
+                },
+                {
+                    "name": "aliensorry",
+                    "path": "aliensorry.mp3",
+                    "title": "（宇宙人の悲し声） ごめんね ｍ(｡≧Д≦｡)ｍ"
+                }
+            ]
+        },
+        {
+            "name": "actadult",
+            "title": "ムーあのふつ (おとな)? おもしろ情報: 月は約4兆5300億年",
+            "voices": [
+                {
+                    "name": "notmoonafault",
+                    "path": "notmoonafault.mp3",
+                    "title": "ムーナは悪くない"
+                }
+            ]
+        },
+        {
+            "name": "ミーム",
+            "title": "ミームがこんなに可愛いわけがない!",
+            "voices": [
+                {
+                    "name": "awimawe",
+                    "path": "awimawe.mp3",
+                    "title": "ヒイ〜イ〜イマッマッマウェ アウィマウェ(x16), （笑笑）"
+                }
+            ]
+        },
+        {
+            "name": "moonsound",
+            "title": "月の声です, 宇宙機関は何をそこに残しましたか",
+            "voices": [
+                {
+                    "name": "carelesswhisper",
+                    "path": "carelesswhisper.mp3",
+                    "title": "誰かがスピーカーを置いて月に Careless Whisper を演奏したのですか、それとも月が歌ったのですか？"
+                }
+            ]
+        }
+    ]
+}
