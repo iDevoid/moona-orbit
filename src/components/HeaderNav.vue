@@ -4,7 +4,7 @@
             v-model="drawer"
             :clipped="$vuetify.breakpoint.lgAndUp"
             app
-            src="/iofi.jpg"
+            src="/moona.jpg"
         >
             <v-list dense>
                 <template v-for="(menu, i) in generateMenus">
