@@ -1,0 +1,68 @@
+{
+    "category": [
+        {
+            "name": "萌",
+            "title": "小心融化，超萌der",
+            "voices": [
+                {
+                    "name": "ohamoon",
+                    "path": "ohamoon.mp3",
+                    "title": "早安~ 嘿嘿"
+                },
+                {
+                    "name": "pikachu",
+                    "path": "pikachu.mp3",
+                    "title": "皮 皮 皮卡丘 皮卡 皮卡"
+                },
+                {
+                    "name": "quietoyasumi",
+                    "path": "quiet-oyasumi.mp3",
+                    "title": "*小聲地* 晚安"
+                },
+                {
+                    "name": "hoamohayou",
+                    "path": "hoam-ohayou.mp3",
+                    "title": "٩(ˊ〇ˋ*)و 早阿 欸嘿嘿"
+                },
+                {
+                    "name": "yo-wakeup",
+                    "path": "Yo, wake up - Toastie.mp3",
+                    "title": "喲, 起來, 早上了"
+                }
+            ]
+        },
+        {
+            "name": "actadult",
+            "title": "做自己的 MoonA (像個大人)? 冷知識: 月亮的年齡大概是 45.3 億年",
+            "voices": [
+                {
+                    "name": "notmoonafault",
+                    "path": "notmoonafault.mp3",
+                    "title": "moona 沒有錯"
+                }
+            ]
+        },
+        {
+            "name": "meme",
+            "title": "我的迷因不可能這麼可愛!",
+            "voices": [
+                {
+                    "name": "awimawe",
+                    "path": "awimawe.mp3",
+                    "title": "hii~i~i~imammamawe awimawe(x16), (笑)"
+                }
+            ]
+        },
+        {
+            "name": "moonsound",
+            "title": "從月亮來的聲音, 到底發生了什麼事?!",
+            "voices": [
+                {
+                    "name": "carelesswhisper",
+                    "path": "carelesswhisper.mp3",
+                    "title": "是不是有人在月亮偷放 Careless Whisper 這首歌，還是月亮在唱歌?"
+                }
+            ]
+        }
+    ]
+}

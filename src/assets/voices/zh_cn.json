@@ -1,0 +1,68 @@
+{
+    "category": [
+        {
+            "name": "萌",
+            "title": "小心融化，萌萌哒",
+            "voices": [
+                {
+                    "name": "ohamoon",
+                    "path": "ohamoon.mp3",
+                    "title": "早安~ 嘿嘿"
+                },
+                {
+                    "name": "pikachu",
+                    "path": "pikachu.mp3",
+                    "title": "皮 皮 皮卡丘 皮卡 皮卡"
+                },
+                {
+                    "name": "quietoyasumi",
+                    "path": "quiet-oyasumi.mp3",
+                    "title": "*小声地* 晚安"
+                },
+                {
+                    "name": "hoamohayou",
+                    "path": "hoam-ohayou.mp3",
+                    "title": "٩(ˊ〇ˋ*)و 早阿 欸嘿嘿"
+                },
+                {
+                    "name": "yo-wakeup",
+                    "path": "Yo, wake up - Toastie.mp3",
+                    "title": "哟, 起来, 早上了"
+                }
+            ]
+        },
+        {
+            "name": "actadult",
+            "title": "做自己的 MoonA (像个大人)? 冷知识: 月亮的年龄大概是 45.3 亿年",
+            "voices": [
+                {
+                    "name": "notmoonafault",
+                    "path": "notmoonafault.mp3",
+                    "title": "moona 没有错"
+                }
+            ]
+        },
+        {
+            "name": "meme",
+            "title": "我的迷因不可能这麽可爱!",
+            "voices": [
+                {
+                    "name": "awimawe",
+                    "path": "awimawe.mp3",
+                    "title": "hii~i~i~imammamawe awimawe(x16), (笑)"
+                }
+            ]
+        },
+        {
+            "name": "moonsound",
+            "title": "从月亮来的声音, 到底發生了什麽事?!",
+            "voices": [
+                {
+                    "name": "carelesswhisper",
+                    "path": "carelesswhisper.mp3",
+                    "title": "是不是有人在月亮偷放 Careless Whisper 这首歌，还是月亮在唱歌?"
+                }
+            ]
+        }
+    ]
+}
